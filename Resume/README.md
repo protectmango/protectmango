@@ -53,8 +53,23 @@ class skills {
   - **\[FEATURE]** Real time interaction with the **LPC2129** microcontroller using **HTTP** and **C Sockets** custom libraries to set the **baud rate** to communicate using **UART**.  
   - **\[Tech Stack]** `C Sockets (TCP)` , `UART`, `HTTP`, `LPC2129`.
 
+-----
 
+## $ sudo ./Education
 
+### → `BACHELORS_OF_TECHNOLOGY`
+
+**Rustamji Institute of Technology (RJIT)** | *Gwalior, MP*
+*`Sep 2020 – June 2024`*
+
+  - **B-Tech** in Electronics & Communication.   
+    - **Major Project**: Object Detection System using Arudino UNO.
+
+### → `Higher_Secondary`
+
+**Kendriya Vidyalaya Masjid Moth, Sadiq Nagar** | *New Delhi*
+*`March 2019`*
+- **Focus**: Mathematics, Physics, Chemistry/Computer Science.
 -----
 
 ## $ sudo ./Projects
@@ -100,21 +115,7 @@ A simple implementation to utilize different protocoal **(SPI, UART, CAN, ADC)**
 
 -----
 
-## $ sudo ./Education
 
-### → `BACHELORS_OF_TECHNOLOGY`
-
-**Rustamji Institute of Technology (RJIT)** | *Gwalior, MP*
-*`Sep 2020 – June 2024`*
-
-  - **B-Tech** in Electronics & Communication.   
-    - **Major Project**: Object Detection System using Arudino UNO.
-
-### → `Higher_Secondary`
-
-**Kendriya Vidyalaya Masjid Moth, Sadiq Nagar** | *New Delhi*
-*`March 2019`*
-- **Focus**: Mathematics, Physics, Chemistry/Computer Science.
 
 <!-- end list -->
 
