@@ -5,6 +5,10 @@
 
 I specialize in high-performance, resource-constrained environments, focusing on the intersection of **C/C++**, **Embedded Systems**, and **Linux Systems Programming**. I thrive on optimizing system performance, managing concurrency, and building reliable solutions from bare metal up to the network layer.
 
+>[!NOTE]
+>If you are interested in solving the real world problem using linux and want to work on some lab.
+>**Visit** : [Linux Labs](https://github.com/protectmango/Linux_Labs)
+
 ### 🛠 Core Technical Stack
 
 | **Area** | **Expertise** |
