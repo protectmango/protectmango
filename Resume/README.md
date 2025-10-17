@@ -90,7 +90,3 @@ const Database = ["PostgreSQL", "MongoDB", "Redis", "Firebase (Firestore)"];
 
 <!-- end list -->
 
-```
-
-Do you need any specific sections of this resume filled out with your own professional details?
-```
