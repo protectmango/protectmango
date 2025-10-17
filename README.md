@@ -7,7 +7,8 @@ I specialize in high-performance, resource-constrained environments, focusing on
 
 >[!NOTE]
 >If you are interested in solving the real world problem using `linux` and want to work on some lab.   
->👉 **Visit** → [Linux Labs](https://github.com/protectmango/Linux_Labs)
+>👉 **Visit** → [Linux Labs](https://github.com/protectmango/Linux_Labs)   
+>👉 [My Resume](https://gulshanrana-dev.onrender.com/resume.pdf) is here.
 
 ### 🛠 Core Technical Stack
 
