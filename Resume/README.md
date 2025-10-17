@@ -1,32 +1,35 @@
-````markdown
-# GREETINGS_HUMAN.RESUME
----
+
+## $ NAME: GULSHAN KUMAR RANA
+
+**→ Trainee Engineer.**
+
+**Contact:** [gulshanrana21.1974@gmail.com](mailto:gulshanrana21.1974@gmail.com) | **LinkedIn:** [linkedin.com/in/gulshan-kumar-rana](https://www.linkedin.com/in/gulshan-kumar-rana/) | **GitHub:** [github.com/protectmango](https://github.com/protectmango)   
+**Address:** BTM Layout, Bangalore | **Phone :** 7042885337
+
 <br>
 
-## $ NAME_ALIAS: JANE DOE
-**Software Engineer | System Architect | Open Source Contributor**
-
-*Contact:* [janedoe@email.com](mailto:janedoe@email.com) | **LinkedIn:** [linkedin.com/in/janedoe](https://linkedin.com/in/janedoe) | **GitHub:** [github.com/janedoe](https://github.com/janedoe)
-<br>
-
 ---
-## $ SKILLS_SET
-
-### `>> PRIMARY_STACK`
-```javascript
-// A light theme terminal often uses distinct colors for types and keywords.
-// We simulate this with code blocks and bold text.
-const Frontend = ["React", "TypeScript", "Tailwind CSS", "Redux", "Sass"];
-const Backend = ["Node.js (Express)", "Python (Django/Flask)", "Go", "REST APIs", "GraphQL"];
-const Database = ["PostgreSQL", "MongoDB", "Redis", "Firebase (Firestore)"];
+## $ SKILLS
+### → `Technical`
+```c++
+class skills {
+  const Languages[] = {"C", "C++", "Embedded C", "Unix", "python"};
+  class Embedded  { 
+    char Microcontroller[] = "LPC2129";
+    const Device_Drivers[] = {"UART", "I2C", "SPI", "CAN", "ADC" }; //using interrupts also.
+  };
+  class Linux {
+    const Networking[] = {"TCP", "UDP", "Sockets (using C syscalls)"};
+    const IPC[] = {"Semaphore", "Message Queue", "Shared Memory", "Pipe/FIFO", "Signals"};
+  };
+};
 ````
 
-### `>> TOOLS_&_DEVOPS`
+### → `TOOLS`
 
-  - **CI/CD:** `GitHub Actions`, `Jenkins`
-  - **Cloud:** `AWS (EC2, S3, Lambda)`, `Docker`, `Kubernetes`
-  - **Testing:** `Jest`, `Cypress`, `Mocha`
-  - **Version Control:** `Git`, `GitHub`, `Bitbucket`
+  - **Editors:** `Vim`, `Neo Vime`, `VS Code`
+  - **Debugger:** `gdb`, `lldb`
+  - **Version Control:** `Git`
 
 -----
 
@@ -73,20 +76,19 @@ const Database = ["PostgreSQL", "MongoDB", "Redis", "Firebase (Firestore)"];
 
 ## $ EDUCATION
 
-### `>> MASTERS_OF_SCIENCE`
+### → `BACHELORS_OF_TECHNOLOGY`
 
-**Massachusetts Institute of Technology (MIT)** | *Cambridge, MA*
-*`Sep 2016 – May 2018`*
+**Rustamji Institute of Technology (RJIT)** | *Gwalior, MP*
+*`Sep 2020 – June 2024`*
 
-  - M.S. in Computer Science. Focus: Distributed Systems and Algorithms.
+  - B-Tech in Electronics & Communication.   
+  Major Project: Object Detection System using Arudino UNO.
 
-### `>> BACHELORS_OF_SCIENCE`
+### → `Higher Secondary`
 
-**University of California, Berkeley (UC Berkeley)** | *Berkeley, CA*
-*`Sep 2012 – May 2016`*
-
-  - B.S. in Electrical Engineering and Computer Science (EECS).
-  - GPA: 3.9/4.0
+**Kendriya Vidyalaya Masjid Moth, Sadiq Nagar** | *New Delhi*
+*`March 2019`*
+- Focus: Mathematics, Physics, Chemistry/Computer Science.
 
 <!-- end list -->
 
