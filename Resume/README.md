@@ -27,7 +27,7 @@ class skills {
 
 ### → `TOOLS`
 
-  - **Editors:** `Vim`, `Neo Vime`, `VS Code`
+  - **Editors:** `Vim`, `Neo Vim`, `VS Code`
   - **Debugger:** `gdb`, `lldb`
   - **Version Control:** `Git`
 
@@ -35,23 +35,14 @@ class skills {
 
 ## $ PROFESSIONAL\_EXPERIENCE
 
-### `>> LEAD_SOFTWARE_ENGINEER`
+### `>> IT Technician`
 
-**TechCorp Global** | *San Francisco, CA*
-*`Jan 2021 – Present`*
+**PITT Services Pvt Ltd.** | *Gwalior, MP*
+*`Feb 2023 – Sep 2024`*
 
-  - **\[FEATURE]** Led a team of 4 engineers in designing and deploying a high-volume microservice architecture, scaling daily transaction processing from 1M to 5M using **Go** and **Kafka**.
-  - **\[PERFORMANCE]** Optimized critical API response times by **35%** by implementing caching strategies with `Redis` and database query tuning in **PostgreSQL**.
-  - **\[DEVOPS]** Championed the adoption of `Kubernetes` for container orchestration, reducing deployment downtime by over **90%**.
+  - **\[FEATURE]** Managing infrastructure of **300+** system, deploying private **exam** and **voip** servers. 
+  - **\[PERFORMANCE]** Scaled and maintained the setup in different locations **(Mumbai, Pune, Nagpur, Gwalior, Jabalpur)** to **200+** system each.
 
-### `>> SOFTWARE_DEVELOPER`
-
-**Innovate Solutions** | *Remote*
-*`Jun 2018 – Dec 2020`*
-
-  - Developed and maintained the company's primary customer-facing platform using **React** and **Node.js**.
-  - Implemented a secure authentication module using **JWT** and enforced security best practices.
-  - Collaborated closely with product owners to deliver 15+ major features across 5 release cycles.
 
 -----
 
