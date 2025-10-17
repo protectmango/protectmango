@@ -48,13 +48,13 @@ class skills {
 
 ## $ PROJECTS
 
-### `>> Project: GitTerminal Dashboard`
+### `>> Project: Decoupled UNIX Socket Logging Daemon`
 
-*`A productivity dashboard styled like a Git CLI, built with React and TypeScript.`*
+*`A robust logging system that uses high-speed, local inter-process communication (IPC) to reliably stream application logs to a separate, dedicated persistence daemon.`*
 
-  - **Stack:** `React`, `TypeScript`, `Tailwind CSS`, `Recoil`
-  - **Features:** Displays recent commit history, active branch status, and open PRs across multiple repositories in a command-line interface format.
-  - **Link:** [github.com/janedoe/gitterminal](https://www.google.com/search?q=https://github.com/janedoe/gitterminal)
+  - **System Calls:** `socket()`, `bind()`, `sendto()`, `recvfrom()`, `unlink()`, `fopen()`, `close()`
+  - **Features:** By using a non-blocking UNIX socket to instantly hand off log data to a separate, dedicated logger daemon, the main application minimizes the risk of losing critical crash-time messages that would otherwise be stuck in its memory buffers.
+  - **Link:** [github.com/protectmango/Linux_Labs/](https://github.com/protectmango/Linux_Labs/)
 
 ### `>> Project: Serverless Data Pipeline`
 
