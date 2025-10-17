@@ -1,7 +1,7 @@
 
-## $ NAME: GULSHAN KUMAR RANA
-
-**→ Trainee Engineer.**
+## $ sudo ./Resume 
+ **→ Name : GULSHAN KUMAR RANA**   
+ **→ Position : Trainee Engineer**
 
 **Contact:** [gulshanrana21.1974@gmail.com](mailto:gulshanrana21.1974@gmail.com) | **LinkedIn:** [linkedin.com/in/gulshan-kumar-rana](https://www.linkedin.com/in/gulshan-kumar-rana/) | **GitHub:** [github.com/protectmango](https://github.com/protectmango)   
 **Address:** BTM Layout, Bangalore | **Phone :** 7042885337
@@ -9,7 +9,7 @@
 <br>
 
 ---
-## $ SKILLS
+## $ sudo ./Skills
 ### → `Technical`
 ```c++
 class skills {
@@ -33,7 +33,7 @@ class skills {
 
 -----
 
-## $ PROFESSIONAL\_EXPERIENCE
+## $ sudo ./Professional_experience
 
 ### `IT Technician`
 
@@ -42,13 +42,24 @@ class skills {
 
   - **\[FEATURE]** Managing infrastructure of **300+** system, deploying private **exam** and **voip** servers. 
   - **\[PERFORMANCE]** Scaled and maintained the setup in different locations **(Mumbai, Pune, Nagpur, Gwalior, Jabalpur)** to **200+** system each.
+-----
+
+## $ sudo ./Awards
+
+### `3rd Prize in Hackthon organised by Vector India.`
+
+**Project : Real Time IOT data collection using LPC2129**
+
+  - **\[FEATURE]** Real time interaction with the **LPC2129** microcontroller using **HTTP** and **C Sockets** custom libraries to set the **baud rate** to communicate using **UART**.  
+  - **\[Tech Stack]** `C Sockets (TCP)` , `UART`, `HTTP`, `LPC2129`.
+
 
 
 -----
 
-## $ PROJECTS
+## $ sudo ./Projects
 
-### → `Project: Decoupled UNIX Socket Logging Daemon`
+### → `Project: Decoupled_UNIX_Socket_Logging_Daemon`
 
 *A robust logging system that uses high-speed, local ***inter-process communication*** (IPC) to reliably stream application logs to a separate, dedicated persistence daemon.*
 
@@ -57,7 +68,7 @@ class skills {
   - **Link:** [github.com/protectmango/Linux_Labs/](https://github.com/protectmango/Linux_Labs/)
 
 
-### → `Project: Real Time Dashboard using CAN`
+### → `Project: Real_Time_Dashboard_using_CAN`
 
 A simple implementation to utilize different protocoal **(SPI, UART, CAN, ADC)** and interrupts to acheive a simple **Car Dashboard** prototype.
 
@@ -68,7 +79,7 @@ A simple implementation to utilize different protocoal **(SPI, UART, CAN, ADC)**
 
 
 
-### → `Project: C Student Database`
+### → `Project: C_Student_Database`
 
 *A Real time database that perform `READ`, `ADD`, `EDIT`, `DELETE` with a beautiful `CLI`* using basic **C**.
 
@@ -77,7 +88,7 @@ A simple implementation to utilize different protocoal **(SPI, UART, CAN, ADC)**
   - **Link:** [github.com/protectmango/student_database](https://github.com/protectmango/C_Basic_To_Advance/tree/main/My_Projects/student_database_project)
 
 
-### → `Project: Custom String Datatype Using C++`
+### → `Project: Custom_String_Datatype_Using_C++`
 
 *A simple implementation to understand ***Operator Overloading**, ***Function Overloading***,and ***Copy Contructor*** .*
 
@@ -89,7 +100,7 @@ A simple implementation to utilize different protocoal **(SPI, UART, CAN, ADC)**
 
 -----
 
-## $ EDUCATION
+## $ sudo ./Education
 
 ### → `BACHELORS_OF_TECHNOLOGY`
 
@@ -99,7 +110,7 @@ A simple implementation to utilize different protocoal **(SPI, UART, CAN, ADC)**
   - **B-Tech** in Electronics & Communication.   
     - **Major Project**: Object Detection System using Arudino UNO.
 
-### → `Higher Secondary`
+### → `Higher_Secondary`
 
 **Kendriya Vidyalaya Masjid Moth, Sadiq Nagar** | *New Delhi*
 *`March 2019`*
