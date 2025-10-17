@@ -35,7 +35,7 @@ class skills {
 
 ## $ PROFESSIONAL\_EXPERIENCE
 
-### `>> IT Technician`
+### `IT Technician`
 
 **PITT Services Pvt Ltd.** | *Gwalior, MP*
 *`Feb 2023 – Sep 2024`*
@@ -48,20 +48,44 @@ class skills {
 
 ## $ PROJECTS
 
-### `>> Project: Decoupled UNIX Socket Logging Daemon`
+### → `Project: Decoupled UNIX Socket Logging Daemon`
 
-*`A robust logging system that uses high-speed, local inter-process communication (IPC) to reliably stream application logs to a separate, dedicated persistence daemon.`*
+*A robust logging system that uses high-speed, local ***inter-process communication*** (IPC) to reliably stream application logs to a separate, dedicated persistence daemon.*
 
   - **System Calls:** `socket()`, `bind()`, `sendto()`, `recvfrom()`, `unlink()`, `fopen()`, `close()`
   - **Features:** By using a non-blocking UNIX socket to instantly hand off log data to a separate, dedicated logger daemon, the main application minimizes the risk of losing critical crash-time messages that would otherwise be stuck in its memory buffers.
   - **Link:** [github.com/protectmango/Linux_Labs/](https://github.com/protectmango/Linux_Labs/)
 
-### `>> Project: Serverless Data Pipeline`
 
-*`An automated pipeline for data ingestion, processing, and visualization.`*
+### → `Project: Real Time Dashboard using CAN`
 
-  - **Stack:** `AWS Lambda`, `Python (Boto3)`, `PostgreSQL`, `D3.js`
-  - **Impact:** Reduced manual data processing time from 4 hours to under 10 minutes.
+A simple implementation to utilize different protocoal **(SPI, UART, CAN, ADC)** and interrupts to acheive a simple **Car Dashboard** prototype.
+
+  - **Features:** Utilizing Embedded C projects that uses `CAN`, `External Interrupts`, `Registers`, and `Timers` to create real time dashboard using **LPC2129**.
+  - **Link:** [github.com/protectmango/ARMTDMI-Programming/dashboard](https://github.com/protectmango/ARMTDMI-Programming/blob/main/real%20time%20automotive%20dashboard.pdf)
+
+
+
+
+
+### → `Project: C Student Database`
+
+*A Real time database that perform `READ`, `ADD`, `EDIT`, `DELETE` with a beautiful `CLI`* using basic **C**.
+
+
+  - **Features:** My first C projects that utilizes `strings`, `file`, `structure` to create a minimal student database.
+  - **Link:** [github.com/protectmango/student_database](https://github.com/protectmango/C_Basic_To_Advance/tree/main/My_Projects/student_database_project)
+
+
+### → `Project: Custom String Datatype Using C++`
+
+*A simple implementation to understand ***Operator Overloading**, ***Function Overloading***,and ***Copy Contructor*** .*
+
+
+  - **Features:** A simple C++ projects that utilizes `contructor`, `operator`, `class` to create a custom **String datatype**.
+
+
+
 
 -----
 
@@ -72,14 +96,14 @@ class skills {
 **Rustamji Institute of Technology (RJIT)** | *Gwalior, MP*
 *`Sep 2020 – June 2024`*
 
-  - B-Tech in Electronics & Communication.   
-  Major Project: Object Detection System using Arudino UNO.
+  - **B-Tech** in Electronics & Communication.   
+    - **Major Project**: Object Detection System using Arudino UNO.
 
 ### → `Higher Secondary`
 
 **Kendriya Vidyalaya Masjid Moth, Sadiq Nagar** | *New Delhi*
 *`March 2019`*
-- Focus: Mathematics, Physics, Chemistry/Computer Science.
+- **Focus**: Mathematics, Physics, Chemistry/Computer Science.
 
 <!-- end list -->
 
